@@ -17,9 +17,13 @@ This is a bank simulation system implemented in c++
    
    
    
-   ## Installation
+   ## Usage
    
-   **g++ bank.cpp**
+   # Compilation
    
+    **g++ bank.cpp**
+  # Run
+  
+   ./a.out
    
   
