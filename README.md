@@ -24,6 +24,6 @@ This is a bank simulation system implemented in c++
     g++ bank.cpp
   ### Run
   
-   ./a.out
+   `./a.out`
    
   
