@@ -19,10 +19,10 @@ This is a bank simulation system implemented in c++
    
    ## Usage
    
-   # Compilation
+   ### Compilation
    
     **g++ bank.cpp**
-  # Run
+  ### Run
   
    ./a.out
    
