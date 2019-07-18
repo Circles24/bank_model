@@ -21,7 +21,7 @@ This is a bank simulation system implemented in c++
    
    ### Compilation
    
-    **g++ bank.cpp**
+    g++ bank.cpp
   ### Run
   
    ./a.out
